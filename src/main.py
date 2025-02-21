@@ -44,7 +44,7 @@ class DotfilesSidebarApplication(Adw.Application):
     block_reload = True
 
     def __init__(self):
-        super().__init__(application_id='com.ml4w.sidebar',
+        super().__init__(application_id='uk.co.documentjam.ml4w_sidebar',
                          flags=Gio.ApplicationFlags.DEFAULT_FLAGS)
 
         self.create_action('quit', lambda *_: self.quit(), ['<primary>q'])

@@ -20,7 +20,7 @@
 from gi.repository import Adw
 from gi.repository import Gtk
 
-@Gtk.Template(resource_path='/com/ml4w/sidebar/window.ui')
+@Gtk.Template(resource_path='/uk/co/documentjam/ml4w_sidebar/window.ui')
 class DotfilesSidebarWindow(Adw.ApplicationWindow):
     __gtype_name__ = 'DotfilesSidebarWindow'
 

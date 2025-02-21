@@ -1,5 +1,5 @@
 {
-    "id" : "com.ml4w.sidebar",
+    "id" : "uk.co.documentjam.ml4w_sidebar",
     "runtime" : "org.gnome.Platform",
     "runtime-version" : "47",
     "sdk" : "org.gnome.Sdk",
@@ -31,7 +31,7 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "file:///home/raabe/Projects"
+                    "url" : "file:///home/gavin/.ml4w-hyprland/apps-custom-versions/dotfiles-sidebar-custom"
                 }
             ],
             "config-opts" : [

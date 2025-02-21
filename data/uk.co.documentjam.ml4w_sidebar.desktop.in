@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=ML4W Sidebar App
 Exec=dotfiles-sidebar
-Icon=com.ml4w.sidebar
+Icon=uk.co.documentjam.ml4w_sidebar
 Terminal=false
 Type=Application
 Categories=Utility;

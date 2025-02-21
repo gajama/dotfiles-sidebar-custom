@@ -1,4 +1,4 @@
-application_id = 'com.ml4w.sidebar'
+application_id = 'uk.co.documentjam.ml4w_sidebar'
 
 scalable_dir = 'hicolor' / 'scalable' / 'apps'
 install_data(
